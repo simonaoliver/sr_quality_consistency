@@ -16,7 +16,7 @@ Revision History
 
 [**Background	2**](/Background.md)
 
-[**1 Introduction	3**](#Introduction)
+[**1 Introduction	3**](Introduction.md)
 
 [1.1 Purpose	3](#1.1-purpose)
 
@@ -26,7 +26,7 @@ Revision History
 
 [1.4 Scope	4](#1.4-scope)
 
-[**2 Steps/corrections needed to achieve consistency	5**](#2-steps/corrections-needed-to-achieve-consistency)
+[**2 Steps/corrections needed to achieve consistency	5**](Steps.md)
 
 [2.1 General Steps	5](#2.1-general-steps)
 
@@ -36,13 +36,13 @@ Revision History
 
 [2.4 Validation Steps	7](#2.4-validation-steps)
 
-[**3 Surface Reflectance Measurand	7**](#3-surface-reflectance-measurand)
+[**3 Surface Reflectance Measurand	7**](Foundations.md)
 
 [3.1 Foundations of measurand terminology	8](#3.1-foundations-of-measurand-terminology)
 
 [3.3 Issues in application of terminology to  an explicit definition	11](#3.3-issues-in-application-of-terminology-to-an-explicit-definition)
 
-[**4 Applicable Parameter Thresholds	12**](#4-applicable-parameter-thresholds)
+[**4 Applicable Parameter Thresholds	12**](#Parameters.md)
 
 [4.1 Atmospheric Correction	12](#4.1-atmospheric-correction)
 
