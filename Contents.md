@@ -14,9 +14,9 @@ Revision History
 |  |  |  |  |
 |  |  |  |  |
 
-[**Background	2**](#background)
+[**Background	2**](#Background)
 
-[**1 Introduction	3**](#1-introduction)
+[**1 Introduction	3**](#Introduction)
 
 [1.1 Purpose	3](#1.1-purpose)
 
